@@ -1,11 +1,9 @@
 # Recitation-016-Team-1
-These are changes I made -Caleb
 ------NAME----|---Github Username---
-Updating README.md file.  This is adding
-I want to update this 
+Hello
 Tyson Trofino: Tyson-Trofino
 Mathew Procter: mapr9022
 Caleb Schroder: CalebSchroder1
 Harry Salh: harrysalh4
 
-
+This is our intro to git project.
