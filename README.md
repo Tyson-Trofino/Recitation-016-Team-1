@@ -1,6 +1,5 @@
 # Recitation-016-Team-1
-These are changes I made!!!!!!!!!!! Tsyon
-------NAME----|---Github Username---
+------NAME----|---Github Username---  These are changes I made!!!!!!!!!!! Tsyon
 Updating README.md file.  This is adding
 I want to update this 
 Tyson Trofino: Tyson-Trofino
